@@ -12,3 +12,4 @@ echo "Unzipping HCEPDB_moldata.zip..."
 unzip HCEPDB_moldata.zip 
 echo "Removing .zip file..."
 rm HCEPDB_moldata.zip
+echo "Completed."
